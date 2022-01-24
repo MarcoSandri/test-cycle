@@ -17,4 +17,5 @@ body {
 #changeColor {
     font-size: 70px;
     cursor: pointer;
+    text-shadow: 0 0 60px white;
 }
